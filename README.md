@@ -9,26 +9,18 @@ I'm a software engineer with a background in **backend development** and a growi
 ##  What I Work With
 
 **Backend**
-
-* Django    *MOOO
-* Node.js
+* Django        *Node. js
 
 **Frontend**
-
-* React
-* TailwindCSS
+* React         *TailwindCSS     
 
 **AI / Data**
-
-* Python
-* Pandas
+* Python           *Scikit-learn
+* Pandas           *Matplotlib
 * NumPy
-* Scikit-learn
-* Matplotlib
 
 **Tools**
-
-* Docker
+* Docker             *n8n
 * Git & GitHub
 
 ---
@@ -53,12 +45,6 @@ Projects related to:
 * full-stack web applications
 
 Most of my work focuses on **learning by building and solving real-world problems.**
-
----
-
-## 🌍 Goal
-
-To build **intelligent systems that combine software engineering, data science, and AI to solve meaningful problems.**
 
 ---
 
