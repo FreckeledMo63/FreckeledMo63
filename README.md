@@ -9,18 +9,18 @@ I'm a software engineer with a background in **backend development** and a growi
 ##  What I Work With
 
 **Backend**
-* Django        -Node. js
+* Django         ---Node. js
 
 **Frontend**
-* React         -TailwindCSS     
+* React        ---TailwindCSS     
 
 **AI / Data**
-* Python           -Scikit-learn
-* Pandas           -Matplotlib
+* Python           ---Scikit-learn
+* Pandas           ---Matplotlib
 * NumPy
 
 **Tools**
-* Docker             -n8n
+* Docker             ---n8n
 * Git & GitHub
 
 ---
