@@ -10,7 +10,7 @@ I'm a software engineer with a background in **backend development** and a growi
 
 **Backend**
 
-* Django
+* Django    *MOOO
 * Node.js
 
 **Frontend**
